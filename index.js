@@ -62,5 +62,5 @@ Elixir.extend('coffee', function(src, output, options) {
 var prepGulpPaths = function(src, output) {
     return new Elixir.GulpPaths()
         .src(src, config.get('assets.js.coffee.folder'))
-        .output(output || config.get('public.js.outputFolder'), 'app.js');
+        .output(output || config.get('dist.js.outputFolder'), 'app.js');
 };
