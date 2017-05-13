@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-var Elixir = require('laravel-elixir');
+var Elixir = require('@wpdevops/elixir');
 
 var config = Elixir.config;
 var coffee;

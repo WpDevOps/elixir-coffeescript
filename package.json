@@ -1,25 +1,26 @@
 {
-  "name": "laravel-elixir-coffeescript",
-  "version": "1.0.2",
-  "description": "Laravel Elixir CoffeeScript Support",
+  "name": "@wpdevops/elixir-coffeescript",
+  "version": "1.0.0",
+  "description": "WpDevOps Elixir CoffeeScript Support",
   "main": "index.js",
   "keywords": [
-    "laravel",
+    "wpdevops",
     "elixir",
     "coffee",
     "coffeescript",
     "gulp",
-    "javascript"
+    "javascript",
+    "wordpress"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/JeffreyWay/laravel-elixir-coffeescript"
+    "url": "https://github.com/WpDevOps/elixir-coffeescript"
   },
-  "author": "Jeffrey Way",
+  "author": "Shemi Perez",
   "license": "MIT",
-  "homepage": "https://github.com/JeffreyWay/laravel-elixir-coffeescript",
+  "homepage": "https://github.com/WpDevOps/elixir-coffeescript",
   "bugs": {
-    "url": "https://github.com/JeffreyWay/laravel-elixir-coffeescript/issues"
+    "url": "https://github.com/WpDevOps/elixir-coffeescript/issues"
   },
   "dependencies": {
     "gulp": "^3.9.1",
